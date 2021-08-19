@@ -1,0 +1,13 @@
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\bin\Debug\netcoreapp3.1\AdditionOfTwoNumbers.exe
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\bin\Debug\netcoreapp3.1\AdditionOfTwoNumbers.deps.json
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\bin\Debug\netcoreapp3.1\AdditionOfTwoNumbers.runtimeconfig.json
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\bin\Debug\netcoreapp3.1\AdditionOfTwoNumbers.runtimeconfig.dev.json
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\bin\Debug\netcoreapp3.1\AdditionOfTwoNumbers.dll
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\bin\Debug\netcoreapp3.1\AdditionOfTwoNumbers.pdb
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\obj\Debug\netcoreapp3.1\AdditionOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\obj\Debug\netcoreapp3.1\AdditionOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\obj\Debug\netcoreapp3.1\AdditionOfTwoNumbers.AssemblyInfo.cs
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\obj\Debug\netcoreapp3.1\AdditionOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\obj\Debug\netcoreapp3.1\AdditionOfTwoNumbers.dll
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\obj\Debug\netcoreapp3.1\AdditionOfTwoNumbers.pdb
+C:\Users\HP\csharp\AdditionOfTwoNumbers\AdditionOfTwoNumbers\obj\Debug\netcoreapp3.1\AdditionOfTwoNumbers.genruntimeconfig.cache
